@@ -1,4 +1,4 @@
-# 2025B - ISWD633 Construcción y Evolución de Software
+# 2026A - ISWD633 Construcción y Evolución de Software
 
 ## Práctica #5
 
