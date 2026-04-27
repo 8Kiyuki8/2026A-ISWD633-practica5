@@ -14,3 +14,5 @@ Configurar SonarQube utilizando Docker Compose, para esto necesitas dos servicio
 
 # COMPLETAR CON UNA CAPTURA DE PANTALLA LUEGO DE EJECUTAR EL ARCHIVO
 # ACCEDER A LOCALHOST:puertoDefinido para ingresar a SonarQube
+<img width="1366" height="686" alt="image" src="https://github.com/user-attachments/assets/c22a6a5b-ad0f-458a-bf7f-d6b90b1f3df3" />
+
